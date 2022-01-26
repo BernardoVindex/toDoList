@@ -1,0 +1,18 @@
+.taskCard {
+    background-color: rgba(127, 255, 212, 0.172);
+    border: 1px solid black;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.chekIcon {
+    margin: 0 10px;
+}
+
+
+.removeIcon:hover {
+    align-self: flex-end;
+    color: red;
+}
+
